@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Monroe Scholar Research 2021
+Using Recurrant Neural Networks to Generate and Classify Product Reviews Based on Existing Amazon Data
 
-You can use the [editor on GitHub](https://github.com/sofia-huang/Monroe_research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
+The purpose of this summer research project is to analyze the correlation between the RNN models that generate and classify text. My goal is to be able to assign a rating (1-5 stars) to the generated reviews based on their classification. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My first objective is to conduct a literary review in order to better understand RNNs and obtain general knowledge surrounding NLP. 
 
-### Markdown
+My second objective is to clean and preprocess the data so it is optimal to use to train and test the RNN models. I will use existing Amazon product reviews. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My third objective is to create text classification and generation models. The models will be able to generate product reviews and classify them as either positive or negative. I will also analyze the models' accuracy and losses.
 
-```markdown
-Syntax highlighted code block
+Finally, my last objective is to assign a 5-star rating to the generated reviews using the classification model.  
 
-# Header 1
-## Header 2
-### Header 3
+## Links
 
-- Bulleted
-- List
+[Literature Review](literaryreview.md)
 
-1. Numbered
-2. List
+[Text Generation Python Notebook](text_generation1.ipynb) 
 
-**Bold** and _Italic_ and `Code` text
+[Text Classification Python Notebook](text_classification.ipynb) 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sofia-huang/Monroe_research/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
