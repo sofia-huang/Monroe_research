@@ -13,5 +13,6 @@ My third objective is to create text classification and generation models. The m
 Finally, my last objective is to assign a 5-star rating to the generated reviews using the classification model.  
 
 [Text Generation Python Notebook](text_generation1.ipynb) 
+
 [Text Classification Python Notebook](text_classification.ipynb) 
 
