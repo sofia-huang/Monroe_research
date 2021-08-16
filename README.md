@@ -11,3 +11,7 @@ My second objective is to clean and preprocess the data so it is optimal to use 
 My third objective is to create text classification and generation models. The models will be able to generate product reviews and classify them as either positive or negative. I will also analyze the models' accuracy and losses.
 
 Finally, my last objective is to assign a 5-star rating to the generated reviews using the classification model.  
+
+[Text Generation Python Notebook](text_generation1.ipynb) 
+[Text Classification Python Notebook](text_classification.ipynb) 
+
