@@ -14,7 +14,7 @@ Finally, my last objective is to assign a 5-star rating to the generated reviews
 
 ## Links
 
-[Literary Review](literaryreview.md)
+[Literature Review](literaryreview.md)
 
 [Text Generation Python Notebook](text_generation1.ipynb) 
 
