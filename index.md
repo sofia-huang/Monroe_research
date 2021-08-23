@@ -24,3 +24,5 @@ Finally, my last objective is to assign a 5-star rating to the generated reviews
 
 [Helpfulness Prediction Python Notebook](helpfulness_classifier.ipynb)
 
+[Results and Conclusion](conclusion.md)
+
