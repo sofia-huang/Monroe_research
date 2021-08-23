@@ -22,5 +22,5 @@ Finally, my last objective is to assign a 5-star rating to the generated reviews
 
 [Text Classification Python Notebook](text_classification.ipynb) 
 
-[Helpfulness Prediction](helpfulness_classifier.ipynb)
+[Helpfulness Prediction Python Notebook](helpfulness_classifier.ipynb)
 
