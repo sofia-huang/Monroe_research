@@ -10,7 +10,9 @@ My second objective is to clean and preprocess the data so it is optimal to use 
 
 My third objective is to create text classification and generation models. The models will be able to generate product reviews and classify them as either positive or negative. I will also analyze the models' accuracy and losses.
 
-Finally, my last objective is to assign a 5-star rating to the generated reviews using the classification model.  
+My fourth objective is to analyze multiple different classification models to predict the helpfulness of a product review and choose the best one.
+
+Finally, my last objective is to assign a 5-star rating to the generated reviews using the classification model and use the best model found to predict whether or not the generated reviews are helpful.
 
 ## Links
 
