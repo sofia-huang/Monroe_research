@@ -22,9 +22,9 @@ Finally, my last objective is to assign a 5-star rating to the generated reviews
 
 [Text Generation Python Notebook](https://colab.research.google.com/drive/1oQuj8_TpcfG011OgDJJoaIm_p3UzpdDw#scrollTo=fqMOuDutnOxK) 
 
-[Text Classification Python Notebook](text_classification.ipynb) 
+[Text Classification Python Notebook](https://colab.research.google.com/drive/1Ih0oqmb0uWTILZvmz-P7KEVHCqHAa5G7#scrollTo=w3-Gn0-sX2qw) 
 
-[Helpfulness Prediction Python Notebook](helpfulness_classifier.ipynb)
+[Helpfulness Prediction Python Notebook](https://colab.research.google.com/drive/13EpvjxIMowf9YD7EAqkWxG-VVksemFDb#scrollTo=uWBt-lDvY5KU)
 
 [Results and Conclusion](conclusion.md)
 
