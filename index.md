@@ -20,6 +20,8 @@ Finally, my last objective is to assign a 5-star rating to the generated reviews
 
 [Literature Review](literaryreview.md)
 
+[Process and Model Explanations](scripts_explanation.md)
+
 [Text Generation Python Notebook](https://colab.research.google.com/drive/1oQuj8_TpcfG011OgDJJoaIm_p3UzpdDw#scrollTo=fqMOuDutnOxK) 
 
 [Text Classification Python Notebook](https://colab.research.google.com/drive/1Ih0oqmb0uWTILZvmz-P7KEVHCqHAa5G7#scrollTo=w3-Gn0-sX2qw) 
