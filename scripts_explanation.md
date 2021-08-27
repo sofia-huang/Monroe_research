@@ -13,9 +13,10 @@ I used the Tensorflow RNN text generation tutorial [6] as a basis for this model
 
 <img src="textgenModel.png" width="435" height="195" /> 
 
-I attached an optimizer and loss function to the model and configured checkpoints before training the model on the data. I used 10 EPOCHS as that was what my computer was capable of. After training the model, I generated the reviews by running the model through a loop and saved them to a text file.
+I attached an optimizer and loss function to the model and configured checkpoints before training the model on the data. I used 10 epochs as that was what my computer was capable of. After training the model, I generated the reviews by running the model through a loop and saved them to a text file.
 
 ## Text Classification
+I used NLTK's Naive Bayes classifier for this model because it seemed to be the prefered model for text classification. The purpose is to classify a review as either positive or negative. First, I downloaded the data from online and converted it to a dataframe. Then, I removed all reviews with no text and those with 3 stars since those are neother positive or negative. I also removed all unnecessary columns which left just the overall rating and the review text. Once I filtered the reviews, I saved them to a text file for use in the text generation model. Next, I created positive (>3 stars) and negative (<3 stars) review lists of equal lengths. I cleaned the lists by making them all lowercase and removing stopwords and punctuation. Then, I made lists of positive and negative words to become feature sets for the model. I combined the feature sets and split them into training and testing sets and trained the model. 
 
 ## Helpfulness Classification
 
