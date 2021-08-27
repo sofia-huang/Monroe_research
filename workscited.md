@@ -6,7 +6,7 @@
 
 3. Loper, E., &amp; Bird, S. (2009). Learning to Classify Text. In NLTK: The natural language toolkit. essay, s.n. 
 
-4. Ni, J. (2018). Amazon review DATA (2018). Amazon review data. https://nijianmo.github.io/amazon/index.html#subsets. 
+4. Ni, J., Li, J., &amp; McAuley, J. (2019). Justifying recommendations using distantly-labeled reviews and fine-grained aspects. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). https://doi.org/10.18653/v1/d19-1018 
 
 5. Porter, M. (2006, January). The Porter Stemming Algorithm. Porter stemming algorithm. https://tartarus.org/martin/PorterStemmer/. 
 
