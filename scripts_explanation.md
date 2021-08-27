@@ -3,7 +3,7 @@
 ## Dataset
 For this project, I have chosen to use a dataset of Amazon product reviews by Julian McAuley of UCSD [_ ]. I decided to use the "Kindle Store" subset due to its size and my computers conputational power. Each entry in this dataset represents a review. Below is an example of a review and its fields. The fields I will focus on are "helpful", "reviewText", and "overall".
 
-<img src="sampleReview.png" width="350" height="143" /> 
+<img src="sampleReview.png" width="525" height="214.5" /> 
 
 Notice the "helpful" field is a tuple of two integers. The first being the number of upvotes on a review and the latter being the total number of votes on a review. This is important for the helpfulness classification model.
 
