@@ -1,8 +1,10 @@
-# Text Generation
+# Explanation of the Models
 
-# Text Classification
+## Text Generation
 
-# Helpfulness Classification
+## Text Classification
+
+## Helpfulness Classification
 
 ### [Results & Conclusion](conclusion.md)
 
