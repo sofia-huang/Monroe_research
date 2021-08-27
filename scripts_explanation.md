@@ -1,7 +1,7 @@
 # Explanation of the Models
 
 ## Dataset
-For this project, I have chosen to use a dataset of Amazon product reviews by Julian McAuley of UCSD [_ ]. I decided to use the "Kindle Store" subset due to its size and my computers conputational power. Each entry in this dataset represents a review. Below is an example of a review and its fields. The fields I will focus on are "helpful", "reviewText", and "overall".
+For this project, I have chosen to use a dataset of Amazon product reviews by Julian McAuley of UCSD [4]. I decided to use the "Kindle Store" subset due to its size and my computers conputational power. Each entry in this dataset represents a review. Below is an example of a review and its fields. The fields I will focus on are "helpful", "reviewText", and "overall".
 
 <img src="sampleReview.png" width="525" height="214.5" /> 
 
