@@ -13,7 +13,7 @@ I used the Tensorflow RNN text generation tutorial [6] as a basis for this model
 
 <img src="textgenModel.png" width="435" height="195" /> 
 
-I attached an optimizer and loss function to the model.
+I attached an optimizer and loss function to the model and configured checkpoints before training the model on the data. I used 10 EPOCHS as that was what my computer was capable of. After training the model, I generated the reviews by running the model through a loop and saved them to a text file.
 
 ## Text Classification
 
