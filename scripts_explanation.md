@@ -1,7 +1,7 @@
 # Explanation of the Models
 
 ## Dataset
-- For this project, I have chosen to use a dataset of Amazon product reviews by Julian McAuley of UCSD [_ ]. I decided to use the "Kindle Store" subset due to its size and my computers conputational power. Each entry in this dataset represents a review. Below is an example of a review and its fields. The fields I will focus on are "helpful", "reviewText", and "overall".
+For this project, I have chosen to use a dataset of Amazon product reviews by Julian McAuley of UCSD [_ ]. I decided to use the "Kindle Store" subset due to its size and my computers conputational power. Each entry in this dataset represents a review. Below is an example of a review and its fields. The fields I will focus on are "helpful", "reviewText", and "overall".
 
 {
   "reviewerID": "A2SUAM1J3GNN3B",
@@ -19,7 +19,7 @@ Notice the "helpful" field is a tuple of two integers. The first being the numbe
 
 
 ## Text Generation
-- I used the Tensorflow RNN text generation tutorial [] as a basis for this model. First, I downloaded the text file that I preprocessed for the classification model. Then, I vectorized the text, meaning converted them from text data to numerical representations. 
+I used the Tensorflow RNN text generation tutorial [] as a basis for this model. First, I downloaded the text file that I preprocessed for the classification model. Then, I vectorized the text, meaning converted them from text data to numerical representations. This RNN model is character-based, so given a chracter it will predict the next probable character. To create the training and testing sets, I created sequences of text with a length of 100. These are the input sequences and the corresponding target is a sequence of the same length shifted over one character to the right. 
 
 ## Text Classification
 
