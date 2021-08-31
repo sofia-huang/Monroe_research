@@ -11,3 +11,5 @@
 5. Porter, M. (2006, January). The Porter Stemming Algorithm. Porter stemming algorithm. https://tartarus.org/martin/PorterStemmer/. 
 
 6. TensorFlow. (n.d.). Text generation with an rnn : Tensorflow. TensorFlow. https://www.tensorflow.org/text/tutorials/text_generation. 
+
+[Back to Main Page](index.md)
