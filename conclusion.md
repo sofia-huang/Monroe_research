@@ -20,4 +20,6 @@ I fed the generated reviews and their respective ratings, which I assigned based
 
 <img src="help_pred.png" width="225" height="260" /> 
 
+I believe to improve the model, a bigger data set can be used to train and test on. Also, by refining the text generation model, the results will be more accurate as the reviews will be more similar to actual reviews. For a future project, I would take steps to increase the accuracy of all 3 models such as using a larger dataset, increase epochs, and tune hyperparameters. Results of this project have potential to be used as training data for models to detect fake reviews and feature the highest quality reviews without needing customer feedback which will in turn, enhance online customer experience. 
+
 ### [Back to Main Page](index.md)
